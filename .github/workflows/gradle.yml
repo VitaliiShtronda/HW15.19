@@ -25,3 +25,5 @@
 
         - name: Build and test with Gradle
           run: ./gradlew build
+                 - name: Run test
+                 run: ./gradlew test
